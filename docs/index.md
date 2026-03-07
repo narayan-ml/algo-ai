@@ -1,7 +1,9 @@
 ---
-layout: home
-title: Algo-AI
+title: Home
+nav_order: 1
 ---
+
+# Algo-AI
 
 A structured collection of my learning notes and experiments across algorithms, machine learning, and AI systems.
 
