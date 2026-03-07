@@ -17,10 +17,10 @@ A structured collection of my learning notes and experiments across algorithms, 
 
 ## Projects
 
-- Agentic AI experiments
-- ML prototypes
-- Algorithm implementations
-
 ## Learning Log
 
 Ongoing notes from my daily study and experiments.
+
+## About
+
+This site documents my journey from algorithms to AI systems.
