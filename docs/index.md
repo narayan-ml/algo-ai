@@ -3,7 +3,7 @@ layout: home
 title: Algo-AI
 ---
 
-A structured collection of my learning notes and experiments across algorithms, machine learning, and AI systems.
+A Structured collection of my learning notes and experiments across algorithms, machine learning, and AI systems.
 
 ## Knowledge Areas
 
