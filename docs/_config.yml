@@ -5,3 +5,8 @@ remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
+
+aux_links:
+  LinkedIn: https://www.linkedin.com/in/narayanmishra/
+
+search_enabled: true
